@@ -1,0 +1,42 @@
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DAL\bin\Debug\net6.0\DAL.deps.json
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DAL\bin\Debug\net6.0\DAL.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DAL\bin\Debug\net6.0\DAL.pdb
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DAL\obj\Debug\net6.0\refint\DAL.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.pdb
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\ProgramsForPatients\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\ProgramsForPatients\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\ProgramsForPatients\DAL\bin\Debug\net6.0\DAL.dll
+D:\ProgramsForPatients\DAL\bin\Debug\net6.0\DAL.pdb
+D:\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.dll
+D:\ProgramsForPatients\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.pdb
+D:\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\ProgramsForPatients\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\finaly project\ProgramsForPatients\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\finaly project\ProgramsForPatients\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\finaly project\ProgramsForPatients\DAL\bin\Debug\net6.0\DAL.dll
+D:\finaly project\ProgramsForPatients\DAL\bin\Debug\net6.0\DAL.pdb
+D:\finaly project\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\finaly project\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\finaly project\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\finaly project\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\finaly project\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\finaly project\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.dll
+D:\finaly project\ProgramsForPatients\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\finaly project\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.pdb
+D:\finaly project\ProgramsForPatients\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\finaly project\ProgramsForPatients\DAL\obj\Debug\net6.0\ref\DAL.dll

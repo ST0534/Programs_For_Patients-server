@@ -1,0 +1,36 @@
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DTO\bin\Debug\net6.0\DTO.deps.json
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DTO\bin\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DTO\bin\Debug\net6.0\DTO.pdb
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DTO\obj\Debug\net6.0\refint\DTO.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.pdb
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\DTO\obj\Debug\net6.0\ref\DTO.dll
+D:\ProgramsForPatients\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\ProgramsForPatients\DTO\bin\Debug\net6.0\DTO.dll
+D:\ProgramsForPatients\DTO\bin\Debug\net6.0\DTO.pdb
+D:\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.dll
+D:\ProgramsForPatients\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.pdb
+D:\ProgramsForPatients\DTO\obj\Debug\net6.0\ref\DTO.dll
+D:\finaly project\ProgramsForPatients\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\finaly project\ProgramsForPatients\DTO\bin\Debug\net6.0\DTO.dll
+D:\finaly project\ProgramsForPatients\DTO\bin\Debug\net6.0\DTO.pdb
+D:\finaly project\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+D:\finaly project\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\finaly project\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\finaly project\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\finaly project\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\finaly project\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.dll
+D:\finaly project\ProgramsForPatients\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\finaly project\ProgramsForPatients\DTO\obj\Debug\net6.0\DTO.pdb
+D:\finaly project\ProgramsForPatients\DTO\obj\Debug\net6.0\ref\DTO.dll

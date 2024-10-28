@@ -1,0 +1,298 @@
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\appsettings.Development.json
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\appsettings.json
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\ProgramsForPatients.exe
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\ProgramsForPatients.deps.json
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\ProgramsForPatients.runtimeconfig.json
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\ProgramsForPatients.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\ProgramsForPatients.pdb
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Azure.Core.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Azure.Identity.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Humanizer.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.OpenApi.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Mono.TextTemplating.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.CodeDom.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Drawing.Common.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Memory.Data.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Runtime.Caching.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Security.Permissions.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Text.Json.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Windows.Extensions.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\DAL.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\DAL.pdb
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.csproj.AssemblyReference.cache
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.GeneratedMSBuildEditorConfig.editorconfig
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.AssemblyInfoInputs.cache
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.AssemblyInfo.cs
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.csproj.CoreCompileInputs.cache
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.MvcApplicationPartsAssemblyInfo.cs
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.MvcApplicationPartsAssemblyInfo.cache
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\staticwebassets.build.json
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\staticwebassets.development.json
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\scopedcss\bundle\ProgramsForPatients.styles.css
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.csproj.CopyComplete
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\refint\ProgramsForPatients.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.pdb
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.genruntimeconfig.cache
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ref\ProgramsForPatients.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\BLL.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\BLL.pdb
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Castle.Core.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\AutoMapper.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\DTO.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\DTO.pdb
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\BCrypt.Net-Next.dll
+H:\תכנות ו תשפד\קבוצה 1\אסתי פולק\c#\Project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\להעתיק\c#\Project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.dll
+E:\להעתיק\c#\Project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\refint\ProgramsForPatients.dll
+E:\להעתיק\c#\Project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.pdb
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\appsettings.Development.json
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\appsettings.json
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\ProgramsForPatients.exe
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\ProgramsForPatients.deps.json
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\ProgramsForPatients.runtimeconfig.json
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\ProgramsForPatients.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\ProgramsForPatients.pdb
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\AutoMapper.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Azure.Core.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Azure.Identity.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Castle.Core.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Humanizer.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.CodeDom.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Memory.Data.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Text.Json.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\BLL.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\DAL.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\DTO.dll
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\BLL.pdb
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\DAL.pdb
+D:\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\DTO.pdb
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.csproj.AssemblyReference.cache
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.AssemblyInfoInputs.cache
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.AssemblyInfo.cs
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.csproj.CoreCompileInputs.cache
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.MvcApplicationPartsAssemblyInfo.cs
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.MvcApplicationPartsAssemblyInfo.cache
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\staticwebassets\msbuild.ProgramsForPatients.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\staticwebassets\msbuild.build.ProgramsForPatients.props
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProgramsForPatients.props
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProgramsForPatients.props
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\staticwebassets.build.json
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\staticwebassets.development.json
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\scopedcss\bundle\ProgramsForPatients.styles.css
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.csproj.CopyComplete
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.dll
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\refint\ProgramsForPatients.dll
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.pdb
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.genruntimeconfig.cache
+D:\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ref\ProgramsForPatients.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\appsettings.Development.json
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\appsettings.json
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\ProgramsForPatients.exe
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\ProgramsForPatients.deps.json
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\ProgramsForPatients.runtimeconfig.json
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\ProgramsForPatients.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\ProgramsForPatients.pdb
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\AutoMapper.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Azure.Core.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Azure.Identity.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Castle.Core.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Humanizer.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.CodeDom.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Memory.Data.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Text.Json.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\BLL.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\DAL.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\DTO.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\BLL.pdb
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\DAL.pdb
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\bin\Debug\net6.0\DTO.pdb
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.csproj.AssemblyReference.cache
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.GeneratedMSBuildEditorConfig.editorconfig
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.AssemblyInfoInputs.cache
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.AssemblyInfo.cs
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.csproj.CoreCompileInputs.cache
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.MvcApplicationPartsAssemblyInfo.cs
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.MvcApplicationPartsAssemblyInfo.cache
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\staticwebassets\msbuild.ProgramsForPatients.Microsoft.AspNetCore.StaticWebAssets.props
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\staticwebassets\msbuild.build.ProgramsForPatients.props
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProgramsForPatients.props
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProgramsForPatients.props
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\staticwebassets.pack.json
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\staticwebassets.build.json
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\staticwebassets.development.json
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\scopedcss\bundle\ProgramsForPatients.styles.css
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.csproj.CopyComplete
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\refint\ProgramsForPatients.dll
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.pdb
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ProgramsForPatients.genruntimeconfig.cache
+D:\finaly project\ProgramsForPatients\ProgramsForPatients\obj\Debug\net6.0\ref\ProgramsForPatients.dll
